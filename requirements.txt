@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+ultralytics==8.0.132    # (version as example; you can use latest)
+pillow==10.0.0
+numpy==1.26.0
